@@ -1,6 +1,6 @@
 {
   "name": "webboilerplate",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "templates for web apps using different build systems and simple to advanced features",
   "main": "index.js",
   "scripts": {
@@ -13,6 +13,7 @@
   "keywords": [
     "boilerplate",
     "project",
+    "template",
     "setup",
     "initialize",
     "init",
