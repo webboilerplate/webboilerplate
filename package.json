@@ -1,0 +1,29 @@
+{
+  "name": "webboilerplate",
+  "version": "1.0.0",
+  "description": "templates for web apps using different build systems and simple to advanced features",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webboilerplate/webboilerplate.git"
+  },
+  "keywords": [
+    "boilerplate",
+    "project",
+    "setup",
+    "initialize",
+    "init",
+    "start",
+    "kickoff",
+    "empty"
+  ],
+  "author": "Sönke Kluth <soenke.kluth@gmail.com> (http://soenkekluth.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/webboilerplate/webboilerplate/issues"
+  },
+  "homepage": "https://github.com/webboilerplate/webboilerplate#readme"
+}
